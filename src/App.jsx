@@ -14,7 +14,7 @@ import Bookmarks from "./pages/Bookmarks";
 import Notifications from "./pages/Notifications";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
-import NotFound from "./pages/NotFound";
+import NotFound from "./pages/Notfound";
 
 function App() {
   return (
